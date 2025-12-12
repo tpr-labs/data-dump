@@ -1,0 +1,169 @@
+{
+  "settings": {
+    "theme": "dark",
+    "title": "test"
+  },
+  "tabs": [
+    {
+      "id": "t_wd",
+      "name": "Weekday"
+    },
+    {
+      "id": "t_we",
+      "name": "Weekend"
+    },
+    {
+      "id": "t_pom",
+      "name": "Pomodoro"
+    }
+  ],
+  "schedules": {
+    "t_wd": [
+      {
+        "id": "s1",
+        "title": "Morning Routine 1",
+        "start": "06:00",
+        "end": "07:00",
+        "icon": "self_improvement"
+      },
+      {
+        "id": "s2",
+        "title": "Workout",
+        "start": "07:00",
+        "end": "08:00",
+        "icon": "fitness_center"
+      },
+      {
+        "id": "s3",
+        "title": "Deep Work",
+        "start": "09:00",
+        "end": "12:00",
+        "icon": "code"
+      },
+      {
+        "id": "s4",
+        "title": "Lunch Break",
+        "start": "12:00",
+        "end": "13:00",
+        "icon": "restaurant"
+      },
+      {
+        "id": "s5",
+        "title": "Meetings & Admin",
+        "start": "13:00",
+        "end": "14:30",
+        "icon": "payments"
+      },
+      {
+        "id": "s6",
+        "title": "Focus Time",
+        "start": "14:30",
+        "end": "17:00",
+        "icon": "rocket"
+      },
+      {
+        "id": "s7",
+        "title": "Family Time",
+        "start": "18:00",
+        "end": "20:00",
+        "icon": "family_restroom"
+      },
+      {
+        "id": "s8",
+        "title": "Reading",
+        "start": "21:00",
+        "end": "22:00",
+        "icon": "menu_book"
+      },
+      {
+        "id": "s9",
+        "title": "Sleep",
+        "start": "22:30",
+        "end": "06:00",
+        "icon": "bed"
+      }
+    ],
+    "t_we": [
+      {
+        "id": "w1",
+        "title": "Sleep In 2",
+        "start": "00:00",
+        "end": "08:00",
+        "icon": "bed"
+      },
+      {
+        "id": "w2",
+        "title": "Morning Walk",
+        "start": "08:30",
+        "end": "09:30",
+        "icon": "directions_walk"
+      },
+      {
+        "id": "w3",
+        "title": "House Chores",
+        "start": "10:00",
+        "end": "12:00",
+        "icon": "home"
+      },
+      {
+        "id": "w4",
+        "title": "Cycling",
+        "start": "16:00",
+        "end": "18:00",
+        "icon": "directions_bike"
+      },
+      {
+        "id": "w5",
+        "title": "Movie Night",
+        "start": "20:00",
+        "end": "23:00",
+        "icon": "movie"
+      }
+    ],
+    "t_pom": [
+      {
+        "id": "p1",
+        "title": "Pomo 123",
+        "start": "09:00",
+        "end": "09:25",
+        "icon": "timer"
+      },
+      {
+        "id": "p2",
+        "title": "Break",
+        "start": "09:25",
+        "end": "09:30",
+        "icon": "local_cafe"
+      },
+      {
+        "id": "p3",
+        "title": "Pomo 2",
+        "start": "09:30",
+        "end": "09:55",
+        "icon": "timer"
+      },
+      {
+        "id": "p4",
+        "title": "Break",
+        "start": "09:55",
+        "end": "10:00",
+        "icon": "local_cafe"
+      },
+      {
+        "id": "p5",
+        "title": "Pomo 3",
+        "start": "10:00",
+        "end": "10:25",
+        "icon": "timer"
+      },
+      {
+        "id": "p6",
+        "title": "Long Break",
+        "start": "10:25",
+        "end": "10:45",
+        "icon": "self_improvement"
+      }
+    ]
+  },
+  "activeTabId": "t_wd"
+}
